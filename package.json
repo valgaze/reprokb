@@ -1,0 +1,28 @@
+{
+  "name": "kbrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valgaze/kbrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valgaze/kbrepo/issues"
+  },
+  "homepage": "https://github.com/valgaze/kbrepo#readme",
+  "peerDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.2",
+    "@types/web": "^0.0.115"
+  }
+}
